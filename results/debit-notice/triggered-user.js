@@ -1,0 +1,59 @@
+const TRIGGERED_USER = {
+  "Owner":"fcoN_xJeisVsPXA-trzVAuIiqO3ydLQxM-L4XbrQKzY",
+  "Tags":{
+    "Action":"Debit-Notice",
+    "Recipient":"g44Ky-v_wSfxxGwp1Syn6UsfP-2Z9k6kMg5CCriTsmI",
+    "From-Process":"Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc",
+    "Pushed-For":"7l2JBecIq7tkoAEXiML7Rl0tXXwotRgnUNhZDmT4r54", // EXTRA
+  },
+  "From":"Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc",
+  "TagArray":[
+     {
+        "value":"97401",
+        "name":"Ref_"
+     },
+     {
+        "value":"1",
+        "name":"Quantity"
+     },
+     {
+        "value":"Debit-Notice",
+        "name":"Action"
+     },
+     {
+        "value":"g44Ky-v_wSfxxGwp1Syn6UsfP-2Z9k6kMg5CCriTsmI",
+        "name":"Recipient"
+     },
+     {
+        "value":"ao",
+        "name":"Data-Protocol"
+     },
+     {
+        "value":"Message",
+        "name":"Type"
+     },
+     {
+        "value":"ao.TN.1",
+        "name":"Variant"
+     },
+     {
+        "value":"Sa0iBLPNyJQrwpTTG-tWLQU-1QeUAJA73DdxGGiKoJc",
+        "name":"From-Process"
+     },
+     {
+        "value":"9afQ1PLf2mrshqCTZEzzJTR2gWaC9zNPnYgYEqg1Pt4",
+        "name":"From-Module"
+     },
+     {
+        "value":"7l2JBecIq7tkoAEXiML7Rl0tXXwotRgnUNhZDmT4r54",
+        "name":"Pushed-For"
+     }
+  ],
+  "Pushed-For":"7l2JBecIq7tkoAEXiML7Rl0tXXwotRgnUNhZDmT4r54", // EXTRA
+  "Target":"FQK3l_Nwyr9TqG_yWXcWtap5hAPeTPU-uP3dLAx0k-k",
+  "Recipient":"g44Ky-v_wSfxxGwp1Syn6UsfP-2Z9k6kMg5CCriTsmI",
+  "Action":"Debit-Notice",
+  "Id":"NEHhxOZb9eYIKIS0XXd5uksaV-6c4kIxA20vnktUpRs",
+  "Signature":"FjJjYOMPcp0rxiE1R0AtJP2rhoEVKGcfqTSzlXX0XKFcbc0s63QBH_-XyF-1mTc5hitFhYGorPa2HPJuZUPO6UltWftzfAp7TSUXnEzWzAEv2GCEOW5Fwf1LEVYhqrMzgqNrpF9AQml5f9WvAwwt7yKcxuP3VDAXjicPOJjaxSnNpNdvHqPVM76a0ATo6U5nHwgBkjnWisyh3vdKqy1Rp0_P5QwlfHHArxCGK_SO6Eqv1tCLSPdWbYCAwz7X4VCJkSPAG9-y6hoGJDoaQSmUnv8jN8y4WuUREU7ljPUlxdX7JjUKuyMFcWN1RDS88nYZt0q32yxoWyUZLi4Byhcb_5h1Ot40Wp24D7b-LMNTRtGS0jfTMXEYU9nO0RxCEmvdzgx__OI_jyrVHPIxXU5HEFHSPKR3DJEz7XT5fKS9kggn2IvBt33aH60905dsEpJ63lfdW-aKghIrab-3RL5tY-HnAxS3A3Chhqjzw7hwravCoyVixexaSePsbIJO49D0a7aZwGQ4WVztS9EwvxLKvNLuAhficLQZ5fTCX3pg4lfl-mOFGzkxhmdzdEqzoqb3zTTl7d_24RW70YnD2GY1TGInX1xQ7Jmx8nHpuNPAVOvCannxwGXY8UmAuwYqi51MeGqKDIHa34-isfWzzqbg7HrrK7FqwMLWtCdZuc9AE8Y",
+  "Data":"\u001b[90mYou transferred \u001b[34m1\u001b[90m to \u001b[32mg44Ky-v_wSfxxGwp1Syn6UsfP-2Z9k6kMg5CCriTsmI\u001b[0m"
+}

@@ -1,0 +1,46 @@
+{
+  "Action":"Self",
+  "Tags":{
+     "Type":"Message",
+     "Variant":"ao.TN.1",
+     "Content-Type":"text/plain",
+     "SDK":"aoconnect",
+     "Data-Protocol":"ao",
+     "Action":"Self"
+  },
+  "Epoch":0,
+  "TagArray":[
+     {
+        "value":"Self",
+        "name":"Action"
+     },
+     {
+        "value":"ao",
+        "name":"Data-Protocol"
+     },
+     {
+        "value":"ao.TN.1",
+        "name":"Variant"
+     },
+     {
+        "value":"Message",
+        "name":"Type"
+     },
+     {
+        "value":"aoconnect",
+        "name":"SDK"
+     },
+     {
+        "value":"text/plain",
+        "name":"Content-Type"
+     }
+  ],
+  "From":"Tw3EgenDwFhrs8s83SkGV1O0jbjoA7Ly86MlAhtvH3M",
+  "Content-Type":"text/plain", // EXTRA
+  "Target":"FQK3l_Nwyr9TqG_yWXcWtap5hAPeTPU-uP3dLAx0k-k",
+  "SDK":"aoconnect", // EXTRA
+  "Id":"E6gl_KMq4g7_KRjn5PPbObcr568DFhsLTifIop5gjII",
+  "Owner":"Tw3EgenDwFhrs8s83SkGV1O0jbjoA7Ly86MlAhtvH3M",
+  "Signature":"muoO-fbOYd_DAxIOsukZXwctUdMJOvdzGqq41b-7lXkCqYvp7CE7Q0jWqlvwGSA9i48TD70B09IriwWyp6tGzvYkXzb3HmR2MJeLdi79EqdRiWL78NDsGkHVIkIXKY9NQmxlWuZQFjVbawslK41lxIuZkST9YmYMPZ9rsHBwBs-SHK7ObOBKyKXngS_jhpXriUJqO-7hir_1QBfk2lt1dSrzgWRiI7vNc00RjXxu92TfNTfk-Tdl2jIaXgATq_MHvByq_EuGceAY9XaQyT5vLTtRcuoHVrxUXvNLmF8lgKLw_LUQ2D_xtaU6iOdX8HYVDbEoSf_Jo1GQ_gwtqpVBzFiDAPYVAEpJtX7GkMyY0bE-NWYReteGArCXPmISaUW4YnmjuVMxmy7QRK_P3YrfQP7L-yV775cqGHkaDRQyRtegiQ4MBBV5VLzLBK_vwPGerFel69b20dy4eMD32rJUyeHyIYJJwYf7HL8S1CNT3352PkWVHRWDQllxUeJHNO5GYgKwvLTdlmE_KDJFMQc2TdJeU4yTKc0Qldu5GzCcQIaWf4VrCdZXgiv6EJwOHpJL-PGpRJHOum7KXpegj0hPatScVJXdBzYCmV84QmHHj7mBbVxqQUibaxIOF8jKGmA8oyj6s9HfrjMlSWCz7TvdnmrKUzOviL59yfGEf6fQU94",
+  "Data":"0506"
+}
